@@ -1,4 +1,4 @@
-# Classificação Few-Shot de Doenças em Plantas via Fusão de Características Global-Local
+# Classificação Few-Shot de Doenças em Plantas via Fusão de Características Global-Local 🌿
 
 ## Sobre o projeto
 
